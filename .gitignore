@@ -26,3 +26,21 @@ venv/
 node_modules/
 dist/
 build/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+*.apk
+*.ipa
+*.app
+*.aab
+.env
+
+# IDE
+.claude/
+.vscode/extensions/
+*.code-workspace
